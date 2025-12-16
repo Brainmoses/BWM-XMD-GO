@@ -73,6 +73,11 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 <!-- Animated Status Bar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
