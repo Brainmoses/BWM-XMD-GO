@@ -1,12 +1,4 @@
-
-
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-<h1 align="center">
-  +Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
++🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
