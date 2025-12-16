@@ -1,24 +1,4 @@
 
-
-<!-- Alive Footer Animation -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-<img g src="https://files.catbox.moe/se5e6e.jpg" width="100%" height="auto">
-  </a>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-<!-- Profile Card -->
-<p align="center">
-  <img src="" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
-</p>
-
-
 <!-- virus king of bot-Activity Animation -->
 <p align="🔮">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
