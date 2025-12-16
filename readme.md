@@ -11,7 +11,7 @@
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="🌍" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
@@ -53,7 +53,7 @@
   <b>Referral Code for Railway:</b> <code>AqkNn4</code>
 </p>
 
-<!-- WhatsApp Channel Call to Action -->
+<!-- WhatsApp Channel visit🌍 my group chatbot🍄->
 <p align="center">
   <a href="https://www.whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="340" height="50" alt="Follow my WhatsApp Channel!"/>
