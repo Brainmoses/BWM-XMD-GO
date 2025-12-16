@@ -80,7 +80,7 @@
 
 <!-- Animated Status Bar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
+  <img src="https://raw.githubusercontent.com/BMK254/Bwmxmd254/main/assets/statusbar.gif" height="25">
   <br>
   <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & Quantum-Ready 🚀</b></span>
 </p>
