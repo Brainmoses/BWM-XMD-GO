@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 <!-- Profile Card -->
 <p align="center">
   <img src="" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
