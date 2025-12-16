@@ -1,12 +1,12 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
+  "name": "Virus-254-king",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
-  "success_url": "/",
+  "success_url": "https://files.catbox.moe/se5e6e.jpg/",
   "stack": "heroku-24",
   "env": {
     "PREFIX": {
@@ -56,7 +56,7 @@
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://url.bwmxmd.online/Adams.zwu780jq.jpg,https://url.bwmxmd.online/Adams.dlmegzh8.mp4",
+      "value": "https://files.catbox.moe/se5e6e.jpg,https://url.Virus-254-king.online/Adams.dlmegzh8.mp4",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Virus-254-king",
       "required": false
     },
     "SESSION_ID": {
