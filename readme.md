@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<omg sec="https://files.catbox.moe/se5e6e.jpg"
+<img src="https://files.catbox.moe/se5e6e.jpg"
 
 
 <p align="center">
