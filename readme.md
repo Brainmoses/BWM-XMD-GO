@@ -30,7 +30,7 @@
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://main.bwmxmd.online/scanner" target="_blank" rel="noopener noreferrer">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=ping&color=skyyellow" width="260" height="50"/>
   </a>
   <a href="https://main.bwmxmd.online/Deploy" target="_blank" rel="noopener noreferrer">
     <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
@@ -41,7 +41,7 @@
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
   <a href="https://main.bwmxmd.online/Panel_files" target="_blank" rel="noopener noreferrer">
-    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
+    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=green&color=FFA500" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
