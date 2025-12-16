@@ -23,7 +23,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://url.bwmxmd.online/Adams.gbv0odfp.jpg">
-    <img src="https://url.bwmxmd.online/Adams.gbv0odfp.jpg" width="100%" height="auto">
+    <img src="hhttps://files.catbox.moe/se5e6e.jpg" width="100%" height="auto">
   </a>
 </p>
 
