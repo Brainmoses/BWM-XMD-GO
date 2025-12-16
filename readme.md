@@ -1,5 +1,4 @@
-+🔒+Reliable+✅" alt="Typing Animation">
-</h1>
+
 
 <!-- Profile Card -->
 <p align="center">
