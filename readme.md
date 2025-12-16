@@ -80,9 +80,9 @@
 
 <!-- Animated Status Bar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BMK254/Bwmxmd254/main/assets/statusbar.gif" height="25">
+  <img src="https://raw.githubusercontent.com/BMK254/BMk254/main/assets/statusbar.gif" height="254">
   <br>
-  <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & Quantum-Ready 🚀</b></span>
+  <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & virus-Ready🔮</b></span>
 </p>
 
 <!-- Alive Footer Animation -->
