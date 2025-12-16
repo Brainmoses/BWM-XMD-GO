@@ -5,7 +5,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<img src="https://files.catbox.moe/se5e6e.jpg"
+<img g src="https://files.catbox.moe/se5e6e.jpg" width="100%" height="auto">
+  </a>
 
 
 <p align="center">
